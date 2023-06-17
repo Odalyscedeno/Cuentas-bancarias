@@ -26,6 +26,6 @@ si  _nombre_ == '_principal_' :
     Cuentas_corrientes . crédito ( 2400 )
 
     Cuentas_corrientes . mostrar_saldo ()
-    Cuentas_corrientes . débito ( 290 )
+    Cuentas_corrientes . débito ( 600 )
 
     imprimir ( Cuentas_corrientes )
